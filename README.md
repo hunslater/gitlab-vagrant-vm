@@ -1,6 +1,9 @@
 Gitlab-Vagrant-VM
 =================
 
+This repository is being deprecated in favor of [official GitLab cookbook](https://gitlab.com/gitlab-org/cookbook-gitlab.git), use it instead.
+-----------------------------------------------------------------------------------------------------------------------------
+
 Description
 -----------
 
